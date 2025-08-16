@@ -1,6 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subinita01)](https://github.com/subinita01/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subinita01&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subinita01&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subinita01&layout=donut-vertical)](https://github.com/subinita01/github-readme-stats)
 
 - 👋 Hi, I’m Beanie @subinita01
 - 👀 Aspiring UI/UX & Frontend Developer
