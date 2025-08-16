@@ -1,4 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subinita01)](https://github.com/subinita01/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subinita01&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=subinita01&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 - 👋 Hi, I’m Beanie @subinita01
 - 👀 Aspiring UI/UX & Frontend Developer
 - 🧠 Half logic, half aesthetic -100% caffeine-fueled.
