@@ -1,7 +1,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVod2p6amV0Y2pxbGptdTNxdHNocDBvazFtZHR6MzVid3VycXMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzUUg9CJKvUDUxdBgV/giphy.gif" alt="Alt text">
 
 <h1 align="center">Hi 👋, I'm Subinita, You can call me Beanie</h1>
-<h3 align="center">I am a passionate individual crazy about UI/UX, and upgrowing interest on development and new technologies.</h3>
+<h3 align="center">I am a passionate individual crazy about UI/UX, and an upgrowing interest on development and new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subinita01&label=Profile%20views&color=0e75b6&style=flat" alt="subinita01" /> </p>
 
