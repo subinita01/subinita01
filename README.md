@@ -24,9 +24,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Summer of Bitcoin**
-- 🌱 Currently learning **Golang**
-- 🤝 Looking for help with **Full-stack web development (with a focus on great UI/UX) and GenAI**
+- 🔭 Currently working on **Summer of Bitcoin** - Project @kern
 - 📫 Reach me at **subinitaray07@gmail.com**
 - 👨‍💻 All my projects are available at **[beanie-beta.vercel.app](https://beanie-beta.vercel.app/)**
 
