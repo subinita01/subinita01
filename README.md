@@ -1,30 +1,115 @@
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVod2p6amV0Y2pxbGptdTNxdHNocDBvazFtZHR6MzVid3VycXMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzUUg9CJKvUDUxdBgV/giphy.gif" alt="Alt text">
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Subinita, You can call me Beanie</h1>
-<h3 align="center">I am a passionate individual crazy about UI/UX, and an upgrowing interest on development and new technologies.</h3>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVod2p6amV0Y2pxbGptdTNxdHNocDBvazFtZHR6MzVid3VycXMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzUUg9CJKvUDUxdBgV/giphy.gif" width="90%">
+    </td>
+ 
+  </tr>
+</table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subinita01&label=Profile%20views&color=0e75b6&style=flat" alt="subinita01" /> </p>
+# Hi 👋, I'm Subinita Ray — You can call me Beanie
 
+### Passionate about UI/UX, with a growing love for development and new technologies 🚀
 
+<img src="https://komarev.com/ghpvc/?username=subinita01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="subinita01" />
 
-- 📫 How to reach me **subinitaray07@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+## 🚀 About Me
+
+- 🔭 Currently working on **Summer of Bitcoin**
+- 🌱 Currently learning **Golang**
+- 🤝 Looking for help with **Full-stack web development (with a focus on great UI/UX) and GenAI**
+- 📫 Reach me at **subinitaray07@gmail.com**
+- 👨‍💻 All my projects are available at **[beanie-beta.vercel.app](https://beanie-beta.vercel.app/)**
+
+<br>
+
+## 🌐 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/subinita-ray-2b26992a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subinita-ray-2b26992a6" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/700144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="700144" height="30" width="40" /></a>
+  <a href="https://github.com/subinita01" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/subinita-ray-2b26992a6/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/__oh.so.beanie__/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/subinita01/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+  </a>
+  <a href="https://www.topcoder.com/members/700144" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" height="40" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
 
+## 🛠️ Languages & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subinita01&show_icons=true&locale=en&layout=compact" alt="subinita01" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subinita01&show_icons=true&locale=en" alt="subinita01" /></p>
+<img src="https://skillicons.dev/icons?i=arduino,aws,c,cpp,cs,css,django,docker,express,fastapi,figma,firebase,flask,git,go,html,java,js,kafka,kubernetes,linux,nodejs,postgres,py,rabbitmq,react,redis,redux,spring,ts&theme=dark&perline=10" alt="Skills" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subinita01&" alt="subinita01" /></p>
+</div>
 
+<br>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=subinita01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="subinita01 stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subinita01&layout=compact&theme=tokyonight&hide_border=true" alt="subinita01 top langs" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subinita01&theme=tokyonight&hide_border=true" alt="subinita01 streak" />
+
+</div>
+
+<br>
+
+## 📜 Certifications
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🟣 SheCodes Basics — Introduction to Coding</h3>
+      <p>HTML · CSS · JavaScript · VS Code<br>
+      <sub>Supported by the Delac Foundation · May 2025</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔵 Coursera — High-Fidelity Design & User Testing with Figma</h3>
+      <p>UX Design Toolkit<br>
+      <sub><a href="https://coursera.org/verify/0KUZDJ8SG2NX">Verify · Jun 2025</a></sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🟢 Coursera — Discovery & Low-Fidelity Design with Figma</h3>
+      <p>UX Design Toolkit<br>
+      <sub><a href="https://coursera.org/verify/XCMVTZC894RR">Verify · May 2025</a></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🟠 Internshala — Digital Marketing Training</h3>
+      <p>SEO/ASO · Google Ads · Email Marketing · Analytics · AI Marketing — scored 94%<br>
+      <sub><a href="https://trainings.internshala.com/verify_certificate">Verify · Nov 2024</a></sub></p>
+    </td>
+  </tr>
+</table>
+
+📄 **[View the full certifications page →](https://beanie-beta.vercel.app/certifications.html)**
+
+</div>
 
 <!---
 subinita01/subinita01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
