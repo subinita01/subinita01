@@ -1,15 +1,16 @@
 <div align="center">
   <table>
-     <tr>
-      <td align="center">
-        <img src="https://github.com/subinita01/subinita01/blob/main/header.png" width="90%" height="80%">
-      </td>
-    </tr>
     <tr>
       <td align="center">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVod2p6amV0Y2pxbGptdTNxdHNocDBvazFtZHR6MzVid3VycXMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzUUg9CJKvUDUxdBgV/giphy.gif" width="50%">
       </td>
     </tr>
+     <tr>
+      <td align="center">
+        <img src="https://github.com/subinita01/subinita01/blob/main/header.png" width="90%" >
+      </td>
+    </tr>
+    
   </table>
 
 # ~ You can call me Beanie
