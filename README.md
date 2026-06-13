@@ -1,20 +1,20 @@
 <div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVod2p6amV0Y2pxbGptdTNxdHNocDBvazFtZHR6MzVid3VycXMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzUUg9CJKvUDUxdBgV/giphy.gif" width="50%">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/subinita01/subinita01/blob/main/header.png" width="90%">
+      </td>
+    </tr>
+  </table>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVod2p6amV0Y2pxbGptdTNxdHNocDBvazFtZHR6MzVid3VycXMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzUUg9CJKvUDUxdBgV/giphy.gif" width="90%">
-    </td>
-  <td align="center" width="50%">
-      <img src="">
-    </td>
- 
-  </tr>
-</table>
+# ~ You can call me Beanie
 
-# Hi 👋, I'm Subinita Ray — You can call me Beanie
-
-### Passionate about UI/UX, with a growing love for FullStack development with Gen AI and learning new technologies 🚀
+### She is passionate about UI/UX, with a growing love for FullStack development with Gen AI and learning new technologies 🚀
 
 <img src="https://komarev.com/ghpvc/?username=subinita01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="subinita01" />
 
