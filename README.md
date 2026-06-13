@@ -11,7 +11,7 @@
 
 # Hi 👋, I'm Subinita Ray — You can call me Beanie
 
-### Passionate about UI/UX, with a growing love for development and new technologies 🚀
+### Passionate about UI/UX, with a growing love for FullStack development with Gen AI and learning new technologies 🚀
 
 <img src="https://komarev.com/ghpvc/?username=subinita01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="subinita01" />
 
