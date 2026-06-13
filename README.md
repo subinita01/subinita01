@@ -35,16 +35,16 @@
 <p align="left">
   <a href="https://github.com/subinita01" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/subinita-ray-2b26992a6/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/__oh.so.beanie__/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/subinita01/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.topcoder.com/members/700144" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" height="40" width="40" />
   </a>
