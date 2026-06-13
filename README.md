@@ -5,6 +5,9 @@
     <td align="center" width="50%">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVod2p6amV0Y2pxbGptdTNxdHNocDBvazFtZHR6MzVid3VycXMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzUUg9CJKvUDUxdBgV/giphy.gif" width="90%">
     </td>
+  <td align="center" width="50%">
+      <img src="">
+    </td>
  
   </tr>
 </table>
