@@ -2,115 +2,136 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVod2p6amV0Y2pxbGptdTNxdHNocDBvazFtZHR6MzVid3VycXMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzUUg9CJKvUDUxdBgV/giphy.gif" width="50%">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVod2p6amV0Y2pxbGptdTNxdHNocDBvazFtZHR6MzVid3VycXMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzUUg9CJKvUDUxdBgV/giphy.gif" width="300" style="border-radius: 15px; border: 2px solid #0e75b6;" />
       </td>
     </tr>
-     <tr>
+    <tr>
       <td align="center">
-        <img src="https://github.com/subinita01/subinita01/blob/main/header.png" width="90%" >
+        <img src="https://github.com/subinita01/subinita01/blob/main/header.png" width="350" style="border-radius: 10px; border: 2px solid #0e75b6;" />
       </td>
     </tr>
-    
   </table>
+</div>
 
-# ~ You can call me Beanie
+<div align="center">
 
-### She is passionate about UI/UX, with a growing love for FullStack development with Gen AI and learning new technologies 🚀
+# ✨ You can call me Beanie ✨
 
-<img src="https://komarev.com/ghpvc/?username=subinita01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="subinita01" />
+### Passionate about **UI/UX Design** | **FullStack Development** | **Gen AI** 🚀
+
+<img src="https://komarev.com/ghpvc/?username=subinita01&label=Profile%20views&color=0e75b6&style=flat-square" alt="subinita01" />
 
 </div>
 
-<br>
+---
 
 ## 🚀 About Me
 
 - 🔭 Currently working on **Summer of Bitcoin** - Project @kern
+- 💻 Building with **React**, **Node.js**, **FastAPI** & **Gen AI**
+- 🎨 Designing beautiful user experiences with **Figma**
 - 📫 Reach me at **subinitaray07@gmail.com**
-- 👨‍💻 All my projects are available at **[beanie-beta.vercel.app](https://beanie-beta.vercel.app/)**
+- 🌐 Portfolio: **[beanie-beta.vercel.app](https://beanie-beta.vercel.app/)**
 
-<br>
+---
 
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://github.com/subinita01" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/subinita-ray-2b26992a6/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/__oh.so.beanie__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/subinita01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.topcoder.com/members/700144" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" height="40" width="40" />
-  </a>
-</p>
+<div align="center">
 
-<br>
+| [GitHub](https://github.com/subinita01) | [LinkedIn](https://www.linkedin.com/in/subinita-ray-2b26992a6/) | [Instagram](https://www.instagram.com/__oh.so.beanie__/) | [LeetCode](https://leetcode.com/u/subinita01/) | [TopCoder](https://www.topcoder.com/members/700144) |
+|:---:|:---:|:---:|:---:|:---:|
+| ![GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg) | ![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg) | ![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg) | ![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg) | ![TopCoder](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg) |
+
+</div>
+
+---
 
 ## 🛠️ Languages & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,aws,c,cpp,cs,css,django,docker,express,fastapi,figma,firebase,flask,git,go,html,java,js,kafka,kubernetes,linux,nodejs,postgres,py,rabbitmq,react,redis,redux,spring,ts&theme=dark&perline=10" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,cpp,c,cs,go,react,nodejs,express,django,fastapi,flask,aws,docker,kubernetes,git,postgres,redis,kafka,rabbitmq,firebase,figma,vscode&theme=dark" />
 
 </div>
 
-<br>
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=subinita01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="subinita01 stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subinita01&layout=compact&theme=tokyonight&hide_border=true" alt="subinita01 top langs" />
+<table style="margin: 20px auto; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 10px;">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=subinita01&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&border_radius=10" alt="subinita01 stats" />
+    </td>
+    <td style="padding: 10px;">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subinita01&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="subinita01 top langs" />
+    </td>
+  </tr>
+</table>
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subinita01&theme=tokyonight&hide_border=false&border_radius=10" alt="subinita01 streak" style="margin: 20px 0;" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subinita01&theme=tokyonight&hide_border=true" alt="subinita01 streak" />
-[![Subinita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subinita01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subinita01&theme=tokyo-night&radius=10" alt="Subinita's Activity Graph" style="margin: 20px 0; border-radius: 10px;" />
 
 </div>
 
-<br>
+---
 
 ## 📜 Certifications
 
 <div align="center">
 
-<table>
+<table style="margin: 20px auto; border-collapse: collapse;">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🟣 SheCodes Basics — Introduction to Coding</h3>
-      <p>HTML · CSS · JavaScript · VS Code<br>
-      <sub>Supported by the Delac Foundation · May 2025</sub></p>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <div style="border: 2px solid #0e75b6; border-radius: 10px; padding: 15px;">
+        <h3>🟣 SheCodes Basics</h3>
+        <p><strong>Introduction to Coding</strong><br>
+        HTML · CSS · JavaScript · VS Code<br>
+        <sub>May 2025</sub></p>
+      </div>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔵 Coursera — High-Fidelity Design & User Testing with Figma</h3>
-      <p>UX Design Toolkit<br>
-      <sub><a href="https://coursera.org/verify/0KUZDJ8SG2NX">Verify · Jun 2025</a></sub></p>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <div style="border: 2px solid #0e75b6; border-radius: 10px; padding: 15px;">
+        <h3>🔵 Coursera</h3>
+        <p><strong>High-Fidelity Design & User Testing</strong><br>
+        UX Design with Figma<br>
+        <sub><a href="https://coursera.org/verify/0KUZDJ8SG2NX">Verify · Jun 2025</a></sub></p>
+      </div>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🟢 Coursera — Discovery & Low-Fidelity Design with Figma</h3>
-      <p>UX Design Toolkit<br>
-      <sub><a href="https://coursera.org/verify/XCMVTZC894RR">Verify · May 2025</a></sub></p>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <div style="border: 2px solid #0e75b6; border-radius: 10px; padding: 15px;">
+        <h3>🟢 Coursera</h3>
+        <p><strong>Discovery & Low-Fidelity Design</strong><br>
+        UX Design with Figma<br>
+        <sub><a href="https://coursera.org/verify/XCMVTZC894RR">Verify · May 2025</a></sub></p>
+      </div>
     </td>
-    <td width="50%" valign="top">
-      <h3>🟠 Internshala — Digital Marketing Training</h3>
-      <p>SEO/ASO · Google Ads · Email Marketing · Analytics · AI Marketing — scored 94%<br>
-      <sub><a href="https://trainings.internshala.com/verify_certificate">Verify · Nov 2024</a></sub></p>
+    <td width="50%" valign="top" style="padding: 15px;">
+      <div style="border: 2px solid #0e75b6; border-radius: 10px; padding: 15px;">
+        <h3>🟠 Internshala</h3>
+        <p><strong>Digital Marketing Training</strong><br>
+        SEO/ASO · Google Ads · Analytics · AI Marketing<br>
+        <sub><a href="https://trainings.internshala.com/verify_certificate">Verify · Nov 2024</a></sub></p>
+      </div>
     </td>
   </tr>
 </table>
 
-📄 **[View the full certifications page →](https://beanie-beta.vercel.app/certifications.html)**
+📄 **[View Full Certifications →](https://beanie-beta.vercel.app/certifications.html)**
+
+</div>
+
+---
+
+<div align="center">
+
+### Made with ❤️ by Beanie
 
 </div>
 
