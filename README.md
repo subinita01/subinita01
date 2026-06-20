@@ -73,6 +73,7 @@
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=subinita01&theme=tokyonight&hide_border=true" alt="subinita01 streak" />
+[![Subinita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subinita01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
