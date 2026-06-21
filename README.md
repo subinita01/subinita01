@@ -93,7 +93,7 @@
 
 <br>
 
-📄 **[View Full Certifications →](https://beanie-beta.vercel.app/certifications.html)**
+📄 **[View Full Certifications →](https://beanie-beta.vercel.app)**
 
 </div>
 
