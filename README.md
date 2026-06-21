@@ -38,11 +38,21 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-
-| [GitHub](https://github.com/subinita01) | [LinkedIn](https://www.linkedin.com/in/subinita-ray-2b26992a6/) | [Instagram](https://www.instagram.com/__oh.so.beanie__/) | [LeetCode](https://leetcode.com)
-|:---:|:---:|:---:|:---:|
-| ![GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg) | ![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg) | ![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg) | ![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg)
-
+  <a href="https://github.com/subinita01" title="GitHub">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="20" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/subinita-ray-2b26992a6/" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" width="28" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/__oh.so.beanie__/" title="Instagram">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/" title="LeetCode">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" width="44" alt="LeetCode" />
+  </a>
 </div>
 
 ---
@@ -123,15 +133,16 @@
   </tr>
 </table>
 
+📄 **[View Full Certifications →](https://beanie-beta.vercel.app/certifications.html)**
+
+</div>
+
+---
+
 <!-- Simple Markdown -->
 ![Thanks for your visit](https://camo.githubusercontent.com/bd1ee753f43c4549eb4c5df5f810b8db76c4d0320128b041d7f776cbed728752/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d253233333642434637266c696e65733d5448414e4b532b464f522b594f55522b5649534954212121)
 
 ![Wave GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
-
-
-
 
 
 <!---
