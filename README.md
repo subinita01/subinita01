@@ -1,4 +1,4 @@
-<div align="center">
+7<div align="center">
   <table>
     <tr>
       <td align="center">
@@ -129,11 +129,7 @@
 
 ---
 
-<div align="center">
 
-### Made with ❤️ by Beanie
-
-</div>
 
 <!---
 subinita01/subinita01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
