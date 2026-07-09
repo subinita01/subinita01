@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVod2p6amV0Y2pxbGptdTNxdHNocDBvazFtZHR6MzVid3VycXMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzUUg9CJKvUDUxdBgV/giphy.gif" width="200" alt="Cute GIF" style="border-radius: 15px; border: 3px solid #0e75b6; box-shadow: 0 4px 12px rgba(14, 117, 182, 0.4);" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVod2p6amV0Y2pxbGptdTNxdHNocDBvazFtZHR6MzVid3VycXMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzUUg9CJKvUDUxdBgV/giphy.gif" width="200" alt="Welcome GIF" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/subinita01/subinita01/main/header.png" width="400" alt="Header Banner" style="border-radius: 15px; border: 3px solid #0e75b6; box-shadow: 0 4px 12px rgba(14, 117, 182, 0.4);" />
+  <img src="https://raw.githubusercontent.com/subinita01/subinita01/main/header.png" width="400" alt="Header Banner" style="border-radius: 15px; border: 3px solid #0e75b6; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);" />
 
   <h1>✨ You can call me Beanie ✨</h1>
   <h3>Passionate about <b>UI/UX Design</b> | <b>FullStack Development</b> | <b>Gen AI</b> 🚀</h3>
@@ -46,7 +46,7 @@
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,cpp,c,cs,go,react,nodejs,express,django,fastapi,flask,aws,docker,kubernetes,git,postgres,redis,kafka,rabbitmq,firebase,figma,vercel" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,cpp,c,cs,go,react,nodejs,express,django,fastapi,flask,aws,docker,kubernetes,git,postgres,redis,kafka,rabbitmq,firebase,figma" alt="Skills" />
 </div>
 
 ---
