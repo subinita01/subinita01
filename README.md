@@ -64,40 +64,7 @@
 
 ---
 
-## 📜 Certifications
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🟣 SheCodes Basics</h3>
-      <p><b>Introduction to Coding</b><br>HTML · CSS · JavaScript · VS Code<br><i>May 2025</i></p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🔵 Coursera</h3>
-      <p><b>High-Fidelity Design & Testing</b><br>UX Design with Figma<br><i><a href="https://coursera.org/verify/0KUZDJ8SG2NX">Verify</a> · Jun 2025</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🟢 Coursera</h3>
-      <p><b>Discovery & Low-Fidelity Design</b><br>UX Design with Figma<br><i><a href="https://coursera.org/verify/XCMVTZC894RR">Verify</a> · May 2025</i></p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🟠 Internshala</h3>
-      <p><b>Digital Marketing Training</b><br>SEO/ASO · Google Ads · AI Marketing<br><i><a href="https://trainings.internshala.com/verify_certificate">Verify</a> · Nov 2024</i></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-📄 **[View Full Certifications →](https://beanie-beta.vercel.app)**
-
-</div>
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=THANKS+FOR+YOUR+VISIT!!!" alt="Thanks for visiting" />
