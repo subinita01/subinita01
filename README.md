@@ -71,6 +71,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/subinita01/subinita01/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Dark" />
 </div>
+
 ---
 
 ## 🔀 Merged Pull Requests
@@ -84,8 +85,6 @@
 | [#287](https://github.com/avantifellows/college-predictor/pull/287) | fix: resolve filter bugs causing zero results for JEE Main-JOSAA and … | avantifellows/college-predictor | 2026-05-24 |
 
 ### Merged PRs Summary
-
-- **Total Merged PRs**: 5 🔀
   
 
 ---
