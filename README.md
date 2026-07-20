@@ -77,7 +77,7 @@
 ### Merged PRs Summary
 
 - **Total Merged PRs**: 5 🔀
-- **Success Rate**: 18.5% of total PRs merged
+  
 
 ---
 
