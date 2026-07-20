@@ -64,44 +64,20 @@
 
 ---
 
-## 📋 My Pull Requests
+## 🔀 Merged Pull Requests
 
-| # | Title | Repository | Status | Created | Updated | Comments |
-|---|-------|-----------|--------|---------|---------|----------|
-| [#126](https://github.com/odudex/Kern/pull/126) | feat(ui): redesign login screen as a 2x2 card grid with hover glow | odudex/Kern | ❌ Closed | 1 days | 2 hours | 1 |
-| [#4](https://github.com/wishsagarks/Project-Aarohan/pull/4) | perf: only load chart code for the pages that actually use charts | wishsagarks/Project-Aarohan | 🟢 Open | 11 days | 11 days | 2 |
-| [#2](https://github.com/wishsagarks/Project-Aarohan/pull/2) | fix: validating the audit logbook decision only when needed | wishsagarks/Project-Aarohan | ❌ Closed | 12 days | 12 days | 2 |
-| [#115](https://github.com/odudex/Kern/pull/115) | feat(pin): add step progress bar to PIN setup flow | odudex/Kern | ❌ Closed | 15 days | 5 days | 4 |
-| [#113](https://github.com/odudex/Kern/pull/113) | fix(capture_entropy): add missing back button for cancel path | odudex/Kern | ❌ Closed (🔀 Merged) | 19 days | 16 days | 3 |
-| [#110](https://github.com/odudex/Kern/pull/110) | perf(sim): adaptive frame rate cap in main loop | odudex/Kern | ❌ Closed | 23 days | 17 days | 4 |
-| [#101](https://github.com/odudex/Kern/pull/101) | feat(backup): color-coded numbered rows for mnemonic word list | odudex/Kern | ❌ Closed (🔀 Merged) | 29 days | 27 days | 1 |
-| [#100](https://github.com/odudex/Kern/pull/100) | feat(scan): add color legend to Sankey diagram | odudex/Kern | ❌ Closed | 29 days | 26 days | 2 |
-| [#99](https://github.com/odudex/Kern/pull/99) | feat(passphrase): two-step retype confirmation with strength indicator | odudex/Kern | ❌ Closed | 31 days | 27 days | 3 |
-| [#96](https://github.com/odudex/Kern/pull/96) | Feat/pin delay arc dots | odudex/Kern | ❌ Closed (🔀 Merged) | 35 days | 34 days | 1 |
-| [#88](https://github.com/odudex/Kern/pull/88) | feat(ui): add swipe-to-go-back gesture | odudex/Kern | ❌ Closed | 45 days | 40 days | 3 |
-| [#85](https://github.com/odudex/Kern/pull/85) | docs: add UI design guidelines for colour, icons, typography and dialogs | odudex/Kern | ❌ Closed | 50 days | 48 days | 1 |
-| [#84](https://github.com/odudex/Kern/pull/84) | docs: add UI design guidelines for colour, icons, typography and dialogs | odudex/Kern | ❌ Closed | 50 days | 50 days | 0 |
-| [#77](https://github.com/odudex/Kern/pull/77) | feat(ui): add icons, semantic colours, and responsive flex layout to … | odudex/Kern | ❌ Closed | 53 days | 53 days | 1 |
-| [#288](https://github.com/avantifellows/college-predictor/pull/288) | docs: add JSDoc documentation to examConfig.js | avantifellows/college-predictor | ❌ Closed | 18 May 2026 | 56 days | 1 |
-| [#287](https://github.com/avantifellows/college-predictor/pull/287) | fix: resolve filter bugs causing zero results for JEE Main-JOSAA and … | avantifellows/college-predictor | ❌ Closed (🔀 Merged) | 18 May 2026 | 56 days | 0 |
-| [#286](https://github.com/avantifellows/college-predictor/pull/286) | docs: add JSDoc documentation to examConfig.js | avantifellows/college-predictor | ❌ Closed | 18 May 2026 | 18 May 2026 | 0 |
-| [#51](https://github.com/odudex/Kern/pull/51) | ui(dialog): add icon and semantic colour to confirm and danger dialogs | odudex/Kern | ❌ Closed | 17 May 2026 | 53 days | 6 |
-| [#31](https://github.com/odudex/Kern/pull/31) | battery: replace text-only percentage with icon family | odudex/Kern | ❌ Closed (🔀 Merged) | 29 April 2026 | 05 May 2026 | 2 |
-| [#10021](https://github.com/sktime/sktime/pull/10021) | [ENH] improvement to extension templates for forecasting metrics | sktime/sktime | 🟢 Open | 24 April 2026 | 07 May 2026 | 2 |
-| [#9908](https://github.com/sktime/sktime/pull/9908) | [ENH] improve forecasting metric extension templates | sktime/sktime | ❌ Closed | 15 April 2026 | 23 April 2026 | 1 |
-| [#135](https://github.com/cytoscape/appstore/pull/135) | Fix Django 5.0+ deprecation warnings for Django 5.2 LTS upgrade | cytoscape/appstore | 🟢 Open | 26 March 2026 | 31 March 2026 | 2 |
-| [#134](https://github.com/cytoscape/appstore/pull/134) | Fix #82: replace releaseapi_set.get() with .all() to avoid MultipleOb… | cytoscape/appstore | 🟢 Open | 24 March 2026 | 24 March 2026 | 1 |
-| [#133](https://github.com/cytoscape/appstore/pull/133) | Fix #99: set fail_silently=True in CustomEmailHandler to prevent logg… | cytoscape/appstore | 🟢 Open | 24 March 2026 | 24 March 2026 | 1 |
-| [#132](https://github.com/cytoscape/appstore/pull/132) | Fix #131: import missing _do_login and REDIRECT_FIELD_NAME in users/v… | cytoscape/appstore | 🟢 Open | 24 March 2026 | 24 March 2026 | 1 |
-| [#9645](https://github.com/sktime/sktime/pull/9645) | [DOC] usage examples for `EnsembleForecaster` and `AutoEnsembleForecaster` | sktime/sktime | ❌ Closed | 13 March 2026 | 24 April 2026 | 0 |
-| [#21453](https://github.com/carbon-design-system/carbon/pull/21453) | docs(accordion): Comprehensive MDX update for Web Components | carbon-design-system/carbon | ❌ Closed | 08 February 2026 | 28 April 2026 | 5 |
+| # | Title | Repository | Merged Date |
+|---|-------|-----------|-------------|
+| [#113](https://github.com/odudex/Kern/pull/113) | fix(capture_entropy): add missing back button for cancel path | odudex/Kern | 2026-07-03 |
+| [#101](https://github.com/odudex/Kern/pull/101) | feat(backup): color-coded numbered rows for mnemonic word list | odudex/Kern | 2026-06-22 |
+| [#96](https://github.com/odudex/Kern/pull/96) | Feat/pin delay arc dots | odudex/Kern | 2026-06-15 |
+| [#31](https://github.com/odudex/Kern/pull/31) | battery: replace text-only percentage with icon family | odudex/Kern | 2026-05-05 |
+| [#287](https://github.com/avantifellows/college-predictor/pull/287) | fix: resolve filter bugs causing zero results for JEE Main-JOSAA and … | avantifellows/college-predictor | 2026-05-24 |
 
-### Pull Request Statistics
+### Merged PRs Summary
 
-- **Total PRs**: 27
-- **Open PRs**: 5 🟢
-- **Closed PRs**: 22 ❌
-- **Merged PRs**: 5 🔀
+- **Total Merged PRs**: 5 🔀
+- **Success Rate**: 18.5% of total PRs merged
 
 ---
 
