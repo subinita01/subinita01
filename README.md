@@ -69,7 +69,6 @@
 ## 🐍 GitHub Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/subinita01/subinita01/output/github-contribution-grid-snake.svg" alt="GitHub Snake Light" />
   <img src="https://raw.githubusercontent.com/subinita01/subinita01/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Dark" />
 </div>
 ---
