@@ -54,8 +54,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subinita01&show_icons=true&theme=tokyo_night&hide_border=false&count_private=true&border_radius=10" alt="subinita01 stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subinita01&layout=compact&theme=tokyo_night&hide_border=false&border_radius=10" alt="subinita01 top langs" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=subinita01&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&border_radius=10" alt="subinita01 stats" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=subinita01&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="subinita01 top langs" height="165" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subinita01&theme=tokyonight&hide_border=false&border_radius=10" alt="subinita01 streak" height="165" />
   <br><br>
