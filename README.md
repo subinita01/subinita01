@@ -84,7 +84,7 @@
 | [#31](https://github.com/odudex/Kern/pull/31) | battery: replace text-only percentage with icon family | odudex/Kern | 2026-05-05 |
 | [#287](https://github.com/avantifellows/college-predictor/pull/287) | fix: resolve filter bugs causing zero results for JEE Main-JOSAA and … | avantifellows/college-predictor | 2026-05-24 |
 
-### Merged PRs Summary
+
   
 
 ---
