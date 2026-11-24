@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#F8F4EC"/><stop offset="1" stop-color="#E9E0D2"/>
+  </linearGradient>
+  <linearGradient id="arch" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#B9A38A"/><stop offset="1" stop-color="#77614D"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="420" rx="24" fill="url(#paper)"/>
+<path d="M840 420V190a170 170 0 0 1 340 0v230z" fill="url(#arch)"/>
+<path d="M900 420V220a110 110 0 0 1 220 0v200z" fill="#F8F4EC" opacity=".88"/>
+<g fill="#2B2925">
+  <text x="76" y="78" font-family="Arial,sans-serif" font-size="18" letter-spacing="5">SUBINITA RAY / DESIGN &amp; ENGINEERING</text>
+  <path d="M76 105H720" stroke="#B7AA98"/>
+  <text x="76" y="190" font-family="Georgia,serif" font-size="64">Thoughtful products.</text>
+  <text x="76" y="264" font-family="Georgia,serif" font-size="64">Intuitive experiences.</text>
+  <text x="80" y="322" font-family="Arial,sans-serif" font-size="20" letter-spacing="2" fill="#74695D">PRODUCT DESIGN · FRONTEND · AI</text>
+  <text x="80" y="378" font-family="Arial,sans-serif" font-size="15" letter-spacing="4" fill="#74695D">CURIOUS BY NATURE. INTENTIONAL BY DESIGN.</text>
+</g>
+<g fill="#F8F4EC" opacity=".85">
+  <circle cx="1010" cy="130" r="5"/><circle cx="1065" cy="180" r="3"/><circle cx="970" cy="230" r="4"/>
+</g>
+</svg>
