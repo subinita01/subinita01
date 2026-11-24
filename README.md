@@ -1,96 +1,157 @@
+<!-- Profile README: warm editorial / quiet luxury -->
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVod2p6amV0Y2pxbGptdTNxdHNocDBvazFtZHR6MzVid3VycXMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzUUg9CJKvUDUxdBgV/giphy.gif" width="200" alt="Welcome GIF" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/subinita01/subinita01/main/header.png" width="400" alt="Header Banner" style="border-radius: 15px; border: 3px solid #0e75b6; box-shadow: 0 4px 12px rgba(14, 117, 182, 0.3);" />
-
-  <h1>✨ You can call me Beanie ✨</h1>
-  <h3>Passionate about <b>UI/UX Design</b> | <b>FullStack Development</b> | <b>Gen AI</b> 🚀</h3>
-
-  <img src="https://komarev.com/ghpvc/?username=subinita01&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img src="assets/editorial-header.svg" alt="Subinita Ray — thoughtful products, intuitive experiences" width="100%" />
+<br/>
+<a href="https://beanie-beta.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/subinita-ray-2b26992a6/">LinkedIn</a> · <a href="mailto:subinitaray07@gmail.com">Email</a>
 </div>
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Currently working on **Summer of Bitcoin** - Project @kern
-- 💻 Building with **React**, **Node.js**, **FastAPI** & **Gen AI**
-- 🎨 Designing beautiful user experiences with **Figma**
-- 📫 Reach me at **[subinitaray07@gmail.com](mailto:subinitaray07@gmail.com)**
-- 🌐 Portfolio: **[beanie-beta.vercel.app](https://beanie-beta.vercel.app/)**
-
----
-
-## 🌐 Connect with Me
-
 <div align="center">
-  <a href="https://github.com/subinita01" title="GitHub">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="35" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/subinita-ray-2b26992a6/" title="LinkedIn">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/__oh.so.beanie__/" title="Instagram">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/subinita01/" title="LeetCode">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35" alt="LeetCode" />
-  </a>
+
+### DESIGNING THE SPACE BETWEEN PEOPLE AND TECHNOLOGY
+
+*Product designer · Developer · Creative thinker*
+
+I enjoy making complex ideas feel clear, useful, and human. My work lives at the intersection of **product thinking, thoughtful interface design, and engineering**.
+
 </div>
 
----
+## 01 — A little about me
 
-## 🛠️ Languages & Tools
+I'm Subinita — also known as **Beanie**.
+
+I care about the details people notice, and the ones they don't: a flow that feels effortless, a system that makes sense, a useful empty state, or a product that respects someone's time.
+
+- **I think in products:** user needs, problem framing, trade-offs, and outcomes.
+- **I design with intention:** hierarchy, interaction, accessibility, and visual clarity.
+- **I build to understand:** translating concepts into working interfaces and prototypes.
+- **Currently exploring:** product strategy, AI × design, design systems, and sustainable technology.
+
+## 02 — Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Expense-IF
+**Fintech · Personal finance**
+
+A personal expense-tracking experience focused on making everyday money management more approachable.
+
+Product thinking · UI/UX · React · Firebase
+
+</td>
+<td width="50%" valign="top">
+
+### LLM Review Analytics
+**AI · Analytics**
+
+A full-stack analytics experience that turns large volumes of reviews into useful, understandable insights.
+
+AI product · Data visualization · React · Spring Boot
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Resilio-Route
+**Climate tech · Risk monitoring**
+
+A campus-scale landslide monitoring and early-warning MVP, connecting environmental sensing with actionable information.
+
+Problem solving · IoT · Product design
+
+</td>
+<td width="50%" valign="top">
+
+### Multimodal Apparel AI
+**AI · Recommendations**
+
+An apparel recommendation system combining visual similarity, text understanding, and intelligent retrieval.
+
+AI/ML · Computer vision · Experience design
+
+</td>
+</tr>
+</table>
+
+> I like projects where the interface is only one part of the story — where the real work is understanding the problem, shaping the system, and making the solution useful.
+
+[Explore my repositories →](https://github.com/subinita01?tab=repositories)  
+[Explore my portfolio →](https://beanie-beta.vercel.app/)
+
+## 03 — My design principles
+
+| | Principle | In practice |
+|:--:|---|---|
+| ✳ | **Clarity over complexity** | Make the next step feel obvious. |
+| ◇ | **Function before decoration** | Every element earns its place. |
+| ○ | **Design for real people** | Empathy belongs in the process, not just the presentation. |
+| ↗ | **Details create trust** | States, spacing, feedback, and consistency matter. |
+
+## 04 — The craft
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,cpp,c,cs,go,react,nodejs,express,django,fastapi,flask,aws,docker,kubernetes,git,postgres,redis,kafka,rabbitmq,firebase" alt="Tech Stack" />
+
+**DESIGN**  
+Figma · FigJam · Wireframing · Prototyping · UX research · Design systems
+
+**DEVELOPMENT**  
+React · TypeScript · JavaScript · HTML/CSS · Tailwind · Firebase
+
+**PRODUCT & DATA**  
+Product thinking · SQL · Python · Analytics · AI-enabled experiences
+
 </div>
 
----
-
-## 📊 GitHub Stats
+### A process I return to
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=subinita01&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&border_radius=10" alt="subinita01 stats" height="165" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=subinita01&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="subinita01 top langs" height="165" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subinita01&theme=tokyonight&hide_border=false&border_radius=10" alt="subinita01 streak" height="165" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subinita01&theme=tokyo-night&radius=10" alt="Subinita's Activity Graph" width="700" />
+
+**Discover** → **Define** → **Design** → **Deliver**
+
+<sub>Understand people and context · Frame the right problem · Explore and test ideas · Build, learn, and improve</sub>
+
 </div>
 
----
+## 05 — A few milestones
 
----
+- **Winner — DeCodex National Hackathon**  
+  1st among 4,294+ teams.
+- **Shortlisted — Summer of Bitcoin**  
+  Selected among the Top 200 participants worldwide.
+- **Project Grant — Resilio-Route**  
+  ₹50,000 MVP funding from the NIT Agartala Alumni Association.
+- **2nd Place — National-Level Debate**  
+  Spring Fest 2026, IIT Kharagpur.
 
-## 🐍 GitHub Snake Animation
+## 06 — Currently curious about
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/subinita01/subinita01/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Dark" />
+
+Product strategy · AI × Design · Design systems  
+System design · Product management · Sustainable tech
+
 </div>
 
----
+## 07 — Beyond the pixels
 
-## 🔀 Merged Pull Requests
+When I'm not designing or building, you'll probably find me exploring music, dancing, cooking, or collecting little moments of inspiration.
 
-| # | Title | Repository | Merged Date |
-|---|-------|-----------|-------------|
-| [#113](https://github.com/odudex/Kern/pull/113) | fix(capture_entropy): add missing back button for cancel path | odudex/Kern | 2026-07-03 |
-| [#101](https://github.com/odudex/Kern/pull/101) | feat(backup): color-coded numbered rows for mnemonic word list | odudex/Kern | 2026-06-22 |
-| [#96](https://github.com/odudex/Kern/pull/96) | Feat/pin delay arc dots | odudex/Kern | 2026-06-15 |
-| [#31](https://github.com/odudex/Kern/pull/31) | battery: replace text-only percentage with icon family | odudex/Kern | 2026-05-05 |
-| [#287](https://github.com/avantifellows/college-predictor/pull/287) | fix: resolve filter bugs causing zero results for JEE Main-JOSAA and … | avantifellows/college-predictor | 2026-05-24 |
-
-
-  
+I believe good work comes from staying curious about the world — not just the screen.
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=THANKS+FOR+YOUR+VISIT!!!" alt="Thanks for visiting" />
-  <br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100" alt="Wave GIF" />
+
+### LET'S BUILD SOMETHING MEANINGFUL.
+
+If you're working on a thoughtful product, an interesting problem, or a creative collaboration, I'd love to hear from you.
+
+<a href="mailto:subinitaray07@gmail.com">Say hello ↗</a> · <a href="https://www.linkedin.com/in/subinita-ray-2b26992a6/">Connect on LinkedIn</a> · <a href="https://beanie-beta.vercel.app/">Visit my portfolio</a>
+
+<br/><sub>Designed with intention · Built with curiosity</sub>
+
 </div>
